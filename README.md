@@ -1,4 +1,4 @@
-# Modijiurl-Js-scriptShortlink-Bypasser
+# Modijiurl-Js-script  Shortlink-Bypasser
 
 This repository will help you only modijiurl bypass adslink and make you to reach at final link
 
